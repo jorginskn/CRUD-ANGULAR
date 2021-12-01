@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mark I",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Mark II",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Mark III",
+      "price": 5000.89
+    },
+    {
+      "name": "Mark IV",
+      "price": "20000",
+      "id": 5
+    },
+    {
+      "name": "Mark V",
+      "price": "30000",
+      "id": 6
+    },
+    {
+      "name": "Nike IRON MAN",
+      "price": "100000",
+      "id": 7
+    },
+    {
+      "name": "Mark VI",
+      "price": "1000000",
+      "id": 8
+    },
+    {
+      "name": "MARK V",
+      "price": "230000",
+      "id": 9
+    },
+    {
+      "name": "MarkVII",
+      "price": "500000",
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 11
+    },
+    {
+      "name": "Mark IV",
+      "price": "1000000",
+      "id": 12
+    }
+  ]
+}
